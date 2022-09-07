@@ -44,3 +44,13 @@ The following table will depict cities and places to visit in those cities.
 | Hyderabad  |  Durgamma Cheruvu|    45 Minutes |
 | Mumbai     |  Gateway of India|    80 Minutes |
 | Agra       |  Taj Mahal       |    50 Minutes |
+
+
+****
+
+# Part 8. Pithy Quotes
+
+> The secret of getting ahead is getting started. - *Mark Twain*
+
+> Keep your face always toward the sunshine, and shadows will fall behind you. - *Walt Whitman*
+
