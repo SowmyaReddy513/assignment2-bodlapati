@@ -54,3 +54,19 @@ The following table will depict cities and places to visit in those cities.
 
 > Keep your face always toward the sunshine, and shadows will fall behind you. - *Walt Whitman*
 
+
+# Part 9. Code Fencing
+
+> Split text string into first and last name in PHP
+[Link to Answer](https://stackoverflow.com/questions/13637145/split-text-string-into-first-and-last-name-in-php)
+
+```
+$name = "John S Smith";
+
+list($fname, $lname) = split(' ', $name,2);
+
+echo "First Name: $fname, Last Name: $lname";
+
+```
+
+[Snipppet Link](https://css-tricks.com/snippets/php/separate-first-and-last-name/)
