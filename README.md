@@ -21,3 +21,10 @@ The nearest airport is Jaipur International Airport, Jaipur.
 6. Turn right at Shardul Singh Ji Ki Naal Rd
 7. Destination will be on the left.
 
+Visiting Places Near To The Museum
+
+- Jaigarh Fort
+- Hawa Mahal
+- Jantar Mantar
+- Albert Hall Museum
+- Nahargarh Fort
