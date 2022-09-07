@@ -67,6 +67,8 @@ list($fname, $lname) = split(' ', $name,2);
 
 echo "First Name: $fname, Last Name: $lname";
 
+[Snipppet Link](https://css-tricks.com/snippets/php/separate-first-and-last-name/)
+
 ```
 
-[Snipppet Link](https://css-tricks.com/snippets/php/separate-first-and-last-name/)
+
