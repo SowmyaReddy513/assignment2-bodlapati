@@ -31,3 +31,16 @@ Visiting Places Near To The Museum
 
 
 To know more about me [CLICK HERE](/AboutMe.md)
+
+****
+
+# Part 7. Tables
+
+The following table will depict cities and places to visit in those cities.
+
+|   City     |  Place to Visit  | Time to Spend |
+|   :---:    |      :---:       |       :---:   |
+| Chennai    |  Marina Beach    |    60 Minutes |
+| Hyderabad  |  Durgamma Cheruvu|    45 Minutes |
+| Mumbai     |  Gateway of India|    80 Minutes |
+| Agra       |  Taj Mahal       |    50 Minutes |
